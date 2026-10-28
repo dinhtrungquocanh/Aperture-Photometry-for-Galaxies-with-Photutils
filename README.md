@@ -7,6 +7,8 @@ The following flowchart describes the key steps of the flowchart which are the B
 
 <img width="946" height="441" alt="aper-phot-flowchart" src="https://github.com/user-attachments/assets/f2b5dacd-4461-4b47-a6ea-e56840fdd619" />
 
+The main notebook (Main_Aper_Photometry.ipynb) is used to calculate photometry for individual galaxies in a studied sample. 
+
 For aperture correction (Step 3), we need to construct empirical psf and extract the radial profile. Run these two first:
 - Construct_empirical_PSF.ipynb
 - Radial_Profile_PSF.ipynb
