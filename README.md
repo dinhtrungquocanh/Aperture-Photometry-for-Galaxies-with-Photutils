@@ -7,9 +7,12 @@ The following flowchart describes the key steps of the flowchart which are the B
 
 <img width="946" height="441" alt="aper-phot-flowchart" src="https://github.com/user-attachments/assets/f2b5dacd-4461-4b47-a6ea-e56840fdd619" />
 
-In order to run the main notebook, we need to construct empirical psf and extract the radial profile. Running these two first:
+For aperture correction (Step 3), we need to construct empirical psf and extract the radial profile. Run these two first:
 - Construct_empirical_PSF.ipynb
 - Radial_Profile_PSF.ipynb
+
+Alternatively, we can also conduct aperture correction using simulated psf. The SPSF extraction is also covered in:
+- Simulated_PSF.ipynb
   
 Further documentation from Photutils can be found at: https://photutils.readthedocs.io/en/latest/user_guide/index.html
 
