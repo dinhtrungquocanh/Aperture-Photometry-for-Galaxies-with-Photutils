@@ -17,4 +17,5 @@ Alternatively, we can also conduct aperture correction using simulated psf. The 
 - Simulated_PSF.ipynb
   
 Further documentation from Photutils can be found at: https://photutils.readthedocs.io/en/latest/user_guide/index.html
+Data for this project is obtained from Dawn JWST Archive (DJA): https://dawn-cph.github.io/dja/imaging/v7/?search=gds-grizli-v7.2-f
 
